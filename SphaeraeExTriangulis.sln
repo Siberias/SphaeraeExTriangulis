@@ -12,24 +12,30 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CryoStarEngine", "..\CryoSt
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{862D2E9E-ADFF-4E24-BC11-92853CC12B15}.Debug|ARM.ActiveCfg = Debug|Win32
 		{862D2E9E-ADFF-4E24-BC11-92853CC12B15}.Debug|x64.ActiveCfg = Debug|x64
 		{862D2E9E-ADFF-4E24-BC11-92853CC12B15}.Debug|x64.Build.0 = Debug|x64
 		{862D2E9E-ADFF-4E24-BC11-92853CC12B15}.Debug|x86.ActiveCfg = Debug|Win32
 		{862D2E9E-ADFF-4E24-BC11-92853CC12B15}.Debug|x86.Build.0 = Debug|Win32
+		{862D2E9E-ADFF-4E24-BC11-92853CC12B15}.Release|ARM.ActiveCfg = Release|Win32
 		{862D2E9E-ADFF-4E24-BC11-92853CC12B15}.Release|x64.ActiveCfg = Release|x64
 		{862D2E9E-ADFF-4E24-BC11-92853CC12B15}.Release|x64.Build.0 = Release|x64
 		{862D2E9E-ADFF-4E24-BC11-92853CC12B15}.Release|x86.ActiveCfg = Release|Win32
 		{862D2E9E-ADFF-4E24-BC11-92853CC12B15}.Release|x86.Build.0 = Release|Win32
+		{C2579554-0F17-4C24-B265-B24DE10EB0DC}.Debug|ARM.ActiveCfg = Debug|Win32
 		{C2579554-0F17-4C24-B265-B24DE10EB0DC}.Debug|x64.ActiveCfg = Debug|x64
 		{C2579554-0F17-4C24-B265-B24DE10EB0DC}.Debug|x64.Build.0 = Debug|x64
 		{C2579554-0F17-4C24-B265-B24DE10EB0DC}.Debug|x86.ActiveCfg = Debug|Win32
 		{C2579554-0F17-4C24-B265-B24DE10EB0DC}.Debug|x86.Build.0 = Debug|Win32
+		{C2579554-0F17-4C24-B265-B24DE10EB0DC}.Release|ARM.ActiveCfg = Release|Win32
 		{C2579554-0F17-4C24-B265-B24DE10EB0DC}.Release|x64.ActiveCfg = Release|x64
 		{C2579554-0F17-4C24-B265-B24DE10EB0DC}.Release|x64.Build.0 = Release|x64
 		{C2579554-0F17-4C24-B265-B24DE10EB0DC}.Release|x86.ActiveCfg = Release|Win32

@@ -133,9 +133,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\Source\Experiments\Experiment_EntityConstruction.cpp" />
     <ClCompile Include="..\Source\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\Source\Experiments\Experiment_EntityConstruction.h" />
     <ClInclude Include="..\Source\Precompiled.h" />
   </ItemGroup>
   <ItemGroup>
